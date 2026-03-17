@@ -30,7 +30,7 @@ To achieve the requirement of visually engaging animations (changing color, shap
 
 1. **Clone the repository:**
    \`\`\`bash
-   git clone <YOUR_GITHUB_REPO_URL_HERE>
+   git clone https://github.com/designigma/fetch_count.git
    cd frontend-assignment
    \`\`\`
 
